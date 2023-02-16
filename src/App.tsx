@@ -21,6 +21,7 @@ function App() {
         </a>
       </header>
       {/*<User/>*/}
+      <script src={"02_strings.js"}></script>
     </div>
   );
 }
